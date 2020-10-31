@@ -1,0 +1,8 @@
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\bin\Debug\Calculator CS.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\bin\Debug\Calculator CS.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\obj\x86\Debug\Calculator_CS.Properties.Resources.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\obj\x86\Debug\Calculator CS.csproj.GenerateResource.Cache
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\obj\x86\Debug\Calculator CS.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\obj\x86\Debug\Calculator CS.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\obj\x86\Debug\Calculator_CS.MainForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Calculator CS\Calculator CS\obj\x86\Debug\Calculator CS.csprojResolveAssemblyReference.cache
